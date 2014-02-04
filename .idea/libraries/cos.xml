@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="cos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/cos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/struts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/uploadbean.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
